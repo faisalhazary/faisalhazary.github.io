@@ -1,0 +1,325 @@
+{
+  "name": "Faisal Hazary",
+  "handle": "faisal_hazary",
+  "location": "Bangladesh",
+  "audienceNote": "",
+  "heroImage": {
+    "src": "https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/544534109_1407547463673127_7099446889862405556_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s1000x1000&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGSwDvruM4UPiWFpvN5UONRBKFY1TIhYYwEoVjVMiFhjMzeT7k83s6H_YTixFfj6ilh8Mds68PibQgfeyV7bf3i&_nc_ohc=ja4g-xUJ_fwQ7kNvwETUbwT&_nc_oc=AdqA4T-u98gbaMpQ-q-WZEdhI--fF1Keyc-MN-09K74I3dGBXUbRbSy4hvBJkrCnoOI&_nc_zt=23&_nc_ht=scontent.fdac24-5.fna&_nc_gid=aMI8dQZ9kLrdwUW9fbyITw&_nc_ss=7b2a8&oh=00_AQN3WURpfSt-BPtZoV2kSFqTHKJwLG0yQwwYsXSDQNtuQA&oe=6ADCBF6C",
+    "alt": "Faisal Hazary's PC setup"
+  },
+  "contactEmail": "hazar",
+  "links": {
+    "instagram": "https://www.instagram.com/faisal_hazary/",
+    "tiktok": "https://www.tiktok.com/@faisal_hazary",
+    "linktree": "https://linktr.ee/faisalhazary",
+    "facebook": "https://www.facebook.com/profile.php?id=61595541061081",
+    "youtube": "https://www.youtube.com/@faisalhazary",
+    "portfolio": "",
+    "asmr": "https://www.youtube.com/channel/UCujA4KIy_JJ0D_Jle_DI0tA"
+  },
+  "form": {
+    "endpoint": ""
+  },
+  "admin": {
+    "hash": "2045750689435831",
+    "kdf": {
+      "salt": "j7bdNElb6pRI+5/6GjIeLw==",
+      "iter": 310000,
+      "h": "zitB31oLY9O/DF/CJ2BBpybxsiNrtjS5m6Cldkr/R4M="
+    }
+  },
+  "mainVideo": {
+    "url": "https://www.youtube.com/@faisalhazary",
+    "title": "YouTube"
+  },
+  "mediaKit": {
+    "period": "",
+    "followers": "747",
+    "followersAsOf": "",
+    "posts": "",
+    "avgReelViews": "2000",
+    "monthlyReach": "12K",
+    "engagementRate": "",
+    "demographics": [
+      {
+        "label": "Top countries",
+        "rows": [
+          {
+            "n": "Bangladesh",
+            "p": "75.4"
+          },
+          {
+            "n": "India",
+            "p": "7.7"
+          },
+          {
+            "n": "Pakistan",
+            "p": "1.5"
+          },
+          {
+            "n": "Saudi Arabia",
+            "p": "3.2"
+          },
+          {
+            "n": "Nepal",
+            "p": "1.2"
+          }
+        ]
+      }
+    ],
+    "topReels": [
+      {
+        "title": "⌨️ AJAZZ AK820 vs AJAZZ AK820 V2 | ASMR Typing Sound Test 🎧",
+        "url": "https://www.instagram.com/reel/De10aX5hhrb/",
+        "views": ""
+      },
+      {
+        "title": "Follow & Comment \"Link\" for link 🔥",
+        "url": "https://www.instagram.com/reel/DeuK1XzBGu_/",
+        "views": ""
+      },
+      {
+        "title": "Your only competition is who you were yesterday. 🔥",
+        "url": "https://www.instagram.com/reel/DeRw9SIBKv4/",
+        "views": ""
+      },
+      {
+        "title": "A setup I’m proud of. 🫶🏼♥️",
+        "url": "https://www.instagram.com/reel/DeHiT_GSizo/",
+        "views": ""
+      }
+    ],
+    "pastCollabs": []
+  },
+  "gallery": [
+    {
+      "title": "⌨️ AJAZZ AK820 vs AJAZZ AK820 V2 | ASMR Typing Sound Test 🎧",
+      "category": "Product Showcase",
+      "brand": "",
+      "date": "2026-10-23",
+      "thumb": "assets/img-2535481574182178.jpg",
+      "alt": "",
+      "url": "https://www.instagram.com/reel/De10aX5hhrb/",
+      "sponsored": false
+    },
+    {
+      "title": "Follow & Comment \"Link\" for link 🔥",
+      "category": "Product Showcase",
+      "brand": "",
+      "date": "2026-10-20",
+      "thumb": "assets/img-1575003243550285.jpg",
+      "alt": "",
+      "url": "https://www.instagram.com/reel/DeuK1XzBGu_/",
+      "sponsored": false
+    },
+    {
+      "title": "Your only competition is who you were yesterday. 🔥",
+      "category": "Product Showcase",
+      "brand": "",
+      "date": "2026-10-09",
+      "thumb": "assets/img-8758241355641141.jpg",
+      "alt": "",
+      "url": "https://www.instagram.com/reel/DeRw9SIBKv4/",
+      "sponsored": false
+    },
+    {
+      "title": "A setup I’m proud of. 🫶🏼♥️",
+      "category": "Product Showcase",
+      "brand": "",
+      "date": "2026-10-05",
+      "thumb": "assets/img-6354790029465810.jpg",
+      "alt": "",
+      "url": "https://www.instagram.com/reel/DeHiT_GSizo/",
+      "sponsored": false
+    },
+    {
+      "title": "The AJAZZ AK820 just landed ⌨️",
+      "category": "Product Showcase",
+      "brand": "",
+      "date": "2026-09-26",
+      "thumb": "assets/img-160249477162904.jpg",
+      "alt": "",
+      "url": "https://www.instagram.com/reel/DdwN90Ih4eL/",
+      "sponsored": false
+    },
+    {
+      "title": "There was never anyone else. It was always you.🥀",
+      "category": "Product Showcase",
+      "brand": "",
+      "date": "2026-09-16",
+      "thumb": "assets/img-880415188424770.jpg",
+      "alt": "",
+      "url": "https://www.instagram.com/reel/DdWmbCFyY0G/",
+      "sponsored": false
+    },
+    {
+      "title": "The only \"other girls\" in my life are Reyna, Fade, and Sage. 🥲",
+      "category": "Product Showcase",
+      "brand": "",
+      "date": "2026-09-10",
+      "thumb": "assets/img-5366018005690788.jpg",
+      "alt": "",
+      "url": "https://www.instagram.com/reel/DdHB8yLBBMO/",
+      "sponsored": false
+    },
+    {
+      "title": "The night before exam😭",
+      "category": "Product Showcase",
+      "brand": "",
+      "date": "2026-09-09",
+      "thumb": "assets/img-511807313203914.jpg",
+      "alt": "",
+      "url": "https://www.instagram.com/reel/DdEBYdHyWI4/",
+      "sponsored": false
+    },
+    {
+      "title": "",
+      "category": "Product Showcase",
+      "brand": "",
+      "date": "",
+      "thumb": "assets/img-3961029262282743.jpg",
+      "alt": "",
+      "url": "",
+      "sponsored": true
+    },
+    {
+      "title": "",
+      "category": "Product Showcase",
+      "brand": "",
+      "date": "",
+      "thumb": "",
+      "alt": "",
+      "url": "",
+      "sponsored": false
+    }
+  ],
+  "brands": [
+    {
+      "id": "tech-diversity",
+      "confirmed": true,
+      "name": "Tech Diversity",
+      "tag": "Tech",
+      "year": "",
+      "logo": "https://scontent.fdac198-2.fna.fbcdn.net/v/t39.30808-6/482002048_1080342880772572_8786698152436899344_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s1000x1000&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEsbLeonUS907smkKE_TWbdJdEPZFT66FEl0Q9kVProUWW2mAObS7ff3us8_OIiUD28W4BbOyAlTjG196XSJ5U6&_nc_ohc=6DtUpd7xAW0Q7kNvwFdDWzN&_nc_oc=AdpIpalYwdoT6dzK17jO06s6b1C0-oBNDnvoQWLYLZbR3JKzYbNX_CxU2ZRlG2LAlEI&_nc_zt=23&_nc_ht=scontent.fdac198-2.fna&_nc_gid=_a0ypNKzm0em0-YUnLCR4A&_nc_ss=7b2a8&oh=00_AQPVcD2HlqvJTM4VxfQ-CIinTBkaXifb2rkSaXNGVY-vBQ&oe=6ADCB927",
+      "intro": "",
+      "role": "",
+      "shop": "https://techdiversitybd.com/",
+      "products": [
+        {
+          "name": "Ajazz AK820 V2",
+          "note": "Keyboard",
+          "image": "assets/img-4988054823119689.jpg",
+          "url": "https://techdiversitybd.com/ajazz-ak820-v2-tri-mode-mechanical-keyboard-bangladesh/",
+          "images": [
+            {
+              "src": "assets/img-3317044606714136.jpg"
+            }
+          ],
+          "price": ""
+        }
+      ],
+      "content": [
+        {
+          "title": "⌨️ AJAZZ AK820 vs AJAZZ AK820 V2 | ASMR Typing Sound Test 🎧",
+          "date": "2026-10-23",
+          "thumb": "assets/img-2535481574182178.jpg",
+          "instagram": "https://www.instagram.com/reel/De10aX5hhrb/"
+        }
+      ],
+      "coupon": {
+        "code": "",
+        "off": "",
+        "note": "",
+        "approvedBy": ""
+      },
+      "results": []
+    }
+  ],
+  "socialCounts": {
+    "instagram": "756+",
+    "tiktok": "",
+    "youtube": "14+",
+    "facebook": "35",
+    "asmr": "117+"
+  },
+  "sections": {
+    "featured": true,
+    "brands": true,
+    "socials": true,
+    "gallery": true,
+    "services": true,
+    "kit": true,
+    "contact": true,
+    "process": true
+  },
+  "announcement": {
+    "show": false,
+    "text": "Test",
+    "link": "",
+    "linkLabel": "Watch now"
+  },
+  "ads": {
+    "show": false,
+    "client": "ca-pub-7797656002290100",
+    "slot": "",
+    "size": "300x100",
+    "pos": "bottom-left",
+    "consent": true,
+    "phones": false
+  },
+  "process": [
+    {
+      "t": "Message me",
+      "d": "Contact me on Instagram DM or fill in the form below."
+    },
+    {
+      "t": "We make a deal",
+      "d": "We agree on the product, the content and the terms."
+    },
+    {
+      "t": "You send me the product",
+      "d": "Send the product to me so I can shoot it in my own setup."
+    },
+    {
+      "t": "I make the reels",
+      "d": "I shoot and edit the reels for your product."
+    },
+    {
+      "t": "I post on social media",
+      "d": "Uploaded on the platforms we agreed on and clearly marked as a collaboration."
+    },
+    {
+      "t": "You pay, I return the product",
+      "d": "Once you pay, I send the product back to you."
+    }
+  ],
+  "testimonials": [],
+  "seo": {
+    "title": "Faisal Hazary | Tech & Gaming Content Creator",
+    "description": "Discover Faisal Hazary, a tech and gaming content creator from Bangladesh. Explore PC setups, gaming gear, product reels, and brand collaboration opportunities.",
+    "gsc": "1hEivBCnDsyRulb7K4BImug6jCyUfa7cBGChGjhyYrQ",
+    "verifyFile": "google06bf2dacbca2142a.html"
+  },
+  "theme": {
+    "accent": "blue",
+    "preset": "violet",
+    "cursor": true
+  },
+  "analytics": {
+    "code": "faisalhazary",
+    "url": "https://bxnexvyaxjsljizvdeqx.supabase.co",
+    "key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ4bmV4dnlheGpzbGppenZkZXF4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI0OTE0NjIsImV4cCI6MjEwODA2NzQ2Mn0.uhrv1gMsbbFm_yHlsOrz4IJGFrkYxU0cEInZCWRmXy0"
+  },
+  "github": {
+    "owner": "faisalhazary",
+    "repo": "home",
+    "branch": "main",
+    "path": "content.json",
+    "htmlPath": "index.html"
+  },
+  "shopPage": {
+    "title": "Product links",
+    "intro": "Type the number I said in the video to find the link."
+  },
+  "shop": []
+}
